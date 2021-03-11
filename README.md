@@ -7,3 +7,4 @@ At this Project I built 4 Classification models for predict which group will win
 some parameters, that I chose by heatmap.
 <br/>
 Alot of people tried to predict LOL game winning, but I going to show you by simple models how you can do it by yourself.
+<b>111</b>
